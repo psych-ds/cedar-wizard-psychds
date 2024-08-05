@@ -2146,7 +2146,7 @@ th.mat-header-cell, td.mat-cell, td.mat-footer-cell {
   padding-left: 10px;
   padding-top: 6px;
 }
-.app-sample-template-select {
+app-sample-template-select {
   visibility: hidden;
 }
 
