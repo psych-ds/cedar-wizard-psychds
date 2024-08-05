@@ -4455,10 +4455,10 @@ let CedarEmbeddableMetadataEditorWrapperComponent = class CedarEmbeddableMetadat
                     },
                     "@type": "https://schema.org/Dataset",
                     "name": {
-                        "@value": "fdsa"
+                        "@value": null
                     },
                     "description": {
-                        "@value": "dsa"
+                        "@value": null
                     },
                     "variableMeasured": [
                         {
